@@ -13,7 +13,7 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
-  id_generator = {apple: 7}
+  id_generator = {:id => 7.00}
 end
 
 def my_hash_creator(key, value)
